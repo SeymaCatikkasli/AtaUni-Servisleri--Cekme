@@ -66,7 +66,7 @@ class _MenuPageState extends State<MenuPage> {
       ),
       title: Row(
         mainAxisAlignment: MainAxisAlignment.start,
-        children: [
+        children: [ 
           _LogoSizedBox(),
           _ImageProperty(),
           _TextSizedBox(),
