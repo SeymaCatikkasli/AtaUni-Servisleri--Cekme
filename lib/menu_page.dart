@@ -63,7 +63,7 @@ class _MenuPageState extends State<MenuPage> {
             colors: [ProjectColors.myColor, ProjectColors_2.myColor2],
           ),
         ),
-      ),
+      ), //
       title: Row(
         mainAxisAlignment: MainAxisAlignment.start,
         children: [ 
